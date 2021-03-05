@@ -2,7 +2,7 @@
  
 # alias for ls (Alternative colorls)
 function ls 
-	colorls -al -sd $argv
+	colorls -al --sd $argv
 end
 
 # Editor
